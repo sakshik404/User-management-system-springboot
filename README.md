@@ -1,2 +1,2 @@
 # User-management-system-springboot
-user mangement system using springboot 
+Its a basic user mangement system using springboot which has CRUD operations 
